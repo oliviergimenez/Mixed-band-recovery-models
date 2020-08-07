@@ -4,7 +4,7 @@
 # to fit band-recovery models with temporal random effects
 
 # can be downloaded freely from
-# https://dl.dropboxusercontent.com/u/23160641/my-pubs/Cubaynesetal2014EES.pdf
+# https://oliviergimenez.github.io/pubs/Cubaynesetal2014EES.pdf
 
 #----------------------------------------------#
 # fit band-recovery model with random effect   #
